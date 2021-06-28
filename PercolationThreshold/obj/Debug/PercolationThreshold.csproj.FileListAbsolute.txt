@@ -1,0 +1,10 @@
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\bin\Debug\PercolationThreshold.exe.config
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\bin\Debug\PercolationThreshold.exe
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\bin\Debug\PercolationThreshold.pdb
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\obj\Debug\PercolationThreshold.csprojAssemblyReference.cache
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\obj\Debug\PercolationThreshold.Form1.resources
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\obj\Debug\PercolationThreshold.Properties.Resources.resources
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\obj\Debug\PercolationThreshold.csproj.GenerateResource.cache
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\obj\Debug\PercolationThreshold.csproj.CoreCompileInputs.cache
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\obj\Debug\PercolationThreshold.exe
+C:\anton1\СomputationalPhysics\PercolationThreshold\PercolationThreshold\obj\Debug\PercolationThreshold.pdb
